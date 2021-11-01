@@ -1,0 +1,38 @@
+body{
+    background-color: rgb(243, 243, 243);
+    font-family: 'I', Times, serif;
+ 
+
+}
+
+.welcome{
+    text-align: center;
+    font-size: xx-large;
+    font-family: 'Calibri', Times, serif;
+    
+}
+.php{
+    font-size: xx-large;
+    font-family: 'Calibri', Times, serif;
+}
+.saludo{
+    font-size: xx-large;
+    background-color: rgb(34, 119, 231);
+}
+.error{
+    font-size: xx-large;
+    background-color: rgb(255, 94, 0);
+    text-align: left;
+}
+.envio{
+    background-color:rgb(34, 119, 231);
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+    }
+   
+div{
+    text-align: center;
+}
+
+
+

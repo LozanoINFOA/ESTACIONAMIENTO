@@ -1,0 +1,32 @@
+body{
+    background-color: green;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.welcome{
+    text-align: center;
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+.php{
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+}
+.saludo{
+    font-size: xx-large;
+    background-color: rgb(55, 0, 255);
+}
+.error{
+    font-size: xx-large;
+    background-color: rgb(255, 94, 0);
+    text-align: left;
+}
+.envio{
+    background-color:rgb(55, 0, 255);
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+    }
+
+
+
